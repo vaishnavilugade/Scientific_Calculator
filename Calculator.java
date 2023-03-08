@@ -903,3 +903,4 @@ class Calculator {
 		frmCalculator.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 	}
 }
+

@@ -7,7 +7,6 @@ import java.util.*;
 
 
 
-
 class Calculator {
 	JFrame frmCalculator;
 	String result="",expression="";

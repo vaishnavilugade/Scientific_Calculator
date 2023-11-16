@@ -43,6 +43,8 @@ This is a Java Swing application that provides a user-friendly graphical interfa
 2.Open the project in your Java IDE or compile and run the Calculator.java file using command line:
 ```
 javac Calculator.java
+```
+```
 java Calculator
 ```
 

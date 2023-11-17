@@ -47,6 +47,7 @@ javac Calculator.java
 ```
 java Calculator
 ```
+3. The calculator GUI will appear. You can now perform calculations using the graphical interface.
 <br>
 <h2 align="center">
   <strong>🌟 If you find this project helpful, please star it! 🌟</strong>
@@ -54,7 +55,7 @@ java Calculator
 
 <br>
 
-3. The calculator GUI will appear. You can now perform calculations using the graphical interface.
+
 <br>
 <div align="center">
   <a href="https://twitter.com/vaishnavilugade">

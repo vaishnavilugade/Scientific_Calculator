@@ -47,6 +47,12 @@ javac Calculator.java
 ```
 java Calculator
 ```
+<br>
+<h2 align="center">
+  <strong>🌟 If you find this project helpful, please star it! 🌟</strong>
+</h2>
+
+<br>
 
 3. The calculator GUI will appear. You can now perform calculations using the graphical interface.
 <br>
